@@ -1,4 +1,4 @@
-# RPGame
+# battle of squares
 some RPG Game
 .
 1. Главный герой - персонаж, за которого пользователь играет
